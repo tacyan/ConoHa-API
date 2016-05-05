@@ -20,17 +20,27 @@ ConoHa API Documantation for Postman,
 
 ### 2.Import JSON
 
+<img src="https://raw.githubusercontent.com/tacyan/ConoHa-API/master/img/import.png" /><br />
+<img src="https://raw.githubusercontent.com/tacyan/ConoHa-API/master/img/import_link.png" /><br />
+
+#### import from link 
+
 [environment](https://raw.githubusercontent.com/tacyan/ConoHa-API/master/Conoha.postman_environment)
 
 [collections](https://github.com/tacyan/ConoHa-API/blob/master/Conoha.json.postman_collection)
 
 ### 3.Set Parameters
 
+Change Your Parameters.
+
 |Parameter|	Value|	Style	|Description|
 |:-:|:-:|:-:|:-:|
 |username	|ユーザー名|	plain|	ユーザ名|
 |password	|ユーザーパスワード|	plain	|ユーザパスワード|
 |tenantId (Optional)|	Tenant ID	|plain	|テナントID|
+
+<img src="https://raw.githubusercontent.com/tacyan/ConoHa-API/master/img/environments.png" /><br />
+<img src="https://raw.githubusercontent.com/tacyan/ConoHa-API/master/img/manage_environments.png" /><br />
 
 ### 4.GET Token
 
