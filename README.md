@@ -27,7 +27,7 @@ ConoHa API Documantation for Postman,
 
 [environment](https://raw.githubusercontent.com/tacyan/ConoHa-API/master/Conoha.postman_environment)
 
-[collections](https://github.com/tacyan/ConoHa-API/blob/master/Conoha.json.postman_collection)
+[collections](https://raw.githubusercontent.com/tacyan/ConoHa-API/master/Conoha.json.postman_collection)
 
 ### 3.Set Parameters
 
